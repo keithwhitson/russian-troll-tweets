@@ -1,0 +1,4 @@
+.venv/
+.ipynb_checkpoints/
+russian_tweets.parquet/
+russian_tweets.csv
